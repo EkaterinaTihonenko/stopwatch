@@ -1,1 +1,1 @@
-# stopwatch
+![Image alt](https://github.com/EkaterinaTihonenko/stopwatch/blob/main/img/screen.PNG)
